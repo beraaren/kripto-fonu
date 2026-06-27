@@ -6,3 +6,6 @@ python3 ~/.kimi/skills/ui-ux-pro-max/scripts/search.py "fintech" --domain indust
 
 # Stil arama
 python3 ~/.kimi/skills/ui-ux-pro-max/scripts/search.py "glassmorphism" --domain style
+
+
+askdopsajoıfkjdsfjkldsaklfkladsjfjlkdajfkljskldfjkldsjklj
